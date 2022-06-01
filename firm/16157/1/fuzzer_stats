@@ -1,0 +1,30 @@
+start_time        : 1650897843
+last_update       : 1650985610
+fuzzer_pid        : 104
+cycles_done       : 0
+execs_done        : 4309594
+execs_per_sec     : 205.28
+paths_total       : 240
+paths_favored     : 54
+paths_found       : 239
+paths_imported    : 0
+max_depth         : 3
+cur_path          : 56
+pending_favs      : 35
+pending_total     : 216
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 0.94%
+unique_crashes    : 10
+unique_hangs      : 0
+last_path         : 1650984742
+last_crash        : 1650954319
+last_hang         : 0
+execs_since_crash : 1695356
+exec_timeout      : 800000
+afl_banner        : busybox
+afl_version       : 2.57b
+target_mode       : qemu 
+command_line      : ./afl-fuzz -m none -t 800000+ -Q -i ./inputs -o ./outputs_firmafl -x keywords /bin/busybox @@
+slowest_exec_ms   : 68107
+peak_rss_mb       : not available while afl is running

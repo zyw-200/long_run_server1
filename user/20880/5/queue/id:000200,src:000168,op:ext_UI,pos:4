@@ -1,0 +1,9 @@
+GET            TX packets:%lu errors:%lu dropped:%lu overruns:%*lu carrier:%*lu/ HT.1
+Content-Type:multipart/form-data;boundary=1
+.8
+0.5
+efl
+-al
+s: 1
+Cot
+

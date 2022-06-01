@@ -1,0 +1,2 @@
+GET /open /var/tmp/ddns_check.txt failCot
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+:ost: 192.168.0.1
+ ccept: text/cation/xml;q=0.9,image/webp,*/*;q=0.8
+A.5
+Acceeflate
+-alive
+Upgr-Requests: 1
+Cookie
+
+=tes

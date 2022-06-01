@@ -1,0 +1,7 @@
+GET /vct_wan ping6 -c %d -s %d -I %s "%s" > /var/misc/ping_app.txtHT.1
+1
+A8
+Content-Type:multipart/form-data;boundary=te
+s: 1
+Cot
+

@@ -1,0 +1,3 @@
+GET /syslogd -C %d -L -R %s:514 &: 1
+Cot
+

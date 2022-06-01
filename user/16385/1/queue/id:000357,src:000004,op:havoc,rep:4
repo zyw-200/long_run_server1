@@ -1,0 +1,13 @@
+GET / HTTP/1.0
+Host: 192.168.0.1
+Accept: text/html,applicasts: 1
+Cookie: uid=CFYion/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Lants: 1
+Cookie: uq=0.5
+Accept-Encoding: gzip, deflatQ
+Connection: keep-alive
+Upgrade-InseGure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

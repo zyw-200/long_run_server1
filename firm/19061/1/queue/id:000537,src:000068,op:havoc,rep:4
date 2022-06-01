@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Cookie: uid=zy–zywzy
+:testate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 1P2.168.0.50
+Conent_Length: 20
+Cookie: uid=zy–zywzy
+:test=test
+

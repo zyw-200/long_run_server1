@@ -1,0 +1,2 @@
+GET /sbin/reboot/ HTTP/1.1
+

@@ -1,0 +1,1 @@
+GET /echo 1 >> /proc/ar531x/gpio/push_button

@@ -1,0 +1,4 @@
+GET / HT.1
+SOAPAction::service:0:008
+@ccKpt-Lan
+SOAPAction::service:0:008g

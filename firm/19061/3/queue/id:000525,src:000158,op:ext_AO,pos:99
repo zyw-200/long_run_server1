@@ -1,0 +1,9 @@
+GET /var/cwmconfig.bin HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 1
+
+68.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

@@ -1,0 +1,9 @@
+GET / 
+Content-Length:161
+A8
+SOAPAction:<m:GetInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:LANConfigSecurity:1">    <NewLANSubnet>%s</NewLANSubnet><m:service:DeviceInfo:1"> ame>u :service:ParlControl:1">a#GetInfo5
+te
+ve
+s
+Cot
+

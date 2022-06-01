@@ -1,0 +1,8 @@
+GET / HT.1
+SOAPAction:HNAP1GetSettings24e
+s
+Cot HT.1WLanSettings24e
+s
+Cot HT.1
+SOAPAction:HNAP1Ge
+

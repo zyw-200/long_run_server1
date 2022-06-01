@@ -1,0 +1,6 @@
+GET /sb HTTP/1.1
+Host: 192.168.0.1
+AccRpt: text/html,application/xhtml+xml,application/xmwebp,*/*;q=0.8
+Accbpt-Language: en gzip, defla\e
+Connection: jeep-aliveUpgradede-Insecure-Reqcceuesokie: t,tes|
+

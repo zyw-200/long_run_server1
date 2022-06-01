@@ -1,0 +1,9 @@
+GET /switch_language.cgi HT.1
+1
+SOAPAction:
+A;q=0.5
+eflate
+-alive
+s: 1
+Cot
+

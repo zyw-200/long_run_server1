@@ -1,0 +1,5 @@
+GET /<MACInfo><MacAddress>%s</MacAddress><DeviceName>%s</DeviceName></MACInfo>**.xml 
+1
+Acc0.8
+
+A;q

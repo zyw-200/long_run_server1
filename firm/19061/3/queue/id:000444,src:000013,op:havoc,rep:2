@@ -1,0 +1,9 @@
+GET /session_login.ðhp HTTP/1.1
+AccEncoding: gzip,deflat_Length: 20
+Cookie: uid=zte,sywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzƒwzy
+
+test=test
+

@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+received command: leaving critical sectionkie: uid=zywzywzy
+
+test=test
+

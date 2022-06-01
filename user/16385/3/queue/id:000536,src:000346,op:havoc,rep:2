@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 19:0123456789abcdef.161
+Accept: t,appliclate
+Connection: keep-alivexml;q=0.9,image/webp,*/*;q=0.8
+Accept-Lage: en-US,en;q=0.5
+Accept-Eing: gzip, deflate
+Connection: keep-alivedws
+Upgr-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+=tes

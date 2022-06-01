@@ -1,0 +1,11 @@
+GET / HT.1
+SOAPAction:<R:service:Time:1
+SOAPAction:ER:service:Time:1#SetTimeZone> 
+SOAPAction:<OU
+s
+Content-Length:1
+SOAPAction:<m:ER:service:DeviceConfig:O:service:Time:1">  PTPServer1>H
+A8
+age
+
+v

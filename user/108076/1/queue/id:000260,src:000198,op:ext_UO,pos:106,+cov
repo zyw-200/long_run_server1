@@ -1,0 +1,5 @@
+GET / 
+Content-Length:161
+A8
+SOAPAction:<mER:service:WANIPConnection:1m:See>u :service:ParlControl:1">a#SetSmartWizardDetection
+

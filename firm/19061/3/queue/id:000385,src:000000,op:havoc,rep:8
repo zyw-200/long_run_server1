@@ -1,0 +1,10 @@
+GET gzip,deflate,sdchzyw/session_login.php HTTP/1.1
+Accept-Encoding< wzywzywzywHost: 192.wzywzywzywzywzywzywzyw
+Host: 192.168.0dzywXywzy
+
+test=tes.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

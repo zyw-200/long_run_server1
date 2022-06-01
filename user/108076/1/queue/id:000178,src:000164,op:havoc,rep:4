@@ -1,0 +1,20 @@
+GET / 
+Content-Length:161
+A8
+SOAPAction:<‹:seÿice:DeviceA8
+SOAPAction:<‹:seÿice:DeviceInfo:1"> ame>u :service:ParlControl:1">a#5
+te
+ve
+s
+CGET / 
+Content-Length:161
+A8
+SOAPAction:<‹:seÿice:DeviceInfo:1">Info:1"> ame>u :service:ParlControl:1">a#5
+te
+ve
+s
+CGET / 
+Content-Length:161
+A8
+SOAPAction:<‹:seÿice:DeviceInfo:1"> ame>u :service:ParlControl:1">a#ot
+

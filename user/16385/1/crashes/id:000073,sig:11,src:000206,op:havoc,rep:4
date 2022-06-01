@@ -1,0 +1,14 @@
+GET /dws/api/GetFile/ HTTP/1.1
+Host: 192.168.0.1
+Accept: tht.1
+Host: 192.168.0.1
+Acapplication/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip
+te~t=test, deflate
+Connection: keep-alive
+Upgrkde-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

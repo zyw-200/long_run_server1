@@ -1,0 +1,6 @@
+GET /<wan_dhcpc_expired_time>%lu</wan_dhcpc_expired_time>/vap &A.5
+te
+ve
+s: 1
+Cot
+

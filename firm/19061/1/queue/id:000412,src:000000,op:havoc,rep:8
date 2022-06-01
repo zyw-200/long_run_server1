@@ -1,0 +1,11 @@
+GET /sesoi`n_login.php HTTP/1.1
+Accept-/wlan/inf:%d/acl/mac:%dEncoding: g id=zywzywzy
+
+test=testp HTTP/1.1
+Accept-Eywzywzÿÿÿwzywzywzywzywzyw
+Host: 8.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

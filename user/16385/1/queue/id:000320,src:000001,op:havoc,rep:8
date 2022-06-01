@@ -1,0 +1,11 @@
+GET ¯ HTTP/1.1
+Host: 192.168.V.1
+Accept: text/html,aext/htm
+Connection: keep-aliveation/xhtml+xml,application/xml;q=0.9,image/wetion/xml;q=0.9,image/webp,*/*bpt-Language: en-UAccepq=0.5
+Accept-Encoding:192 gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=tesRequestst
+

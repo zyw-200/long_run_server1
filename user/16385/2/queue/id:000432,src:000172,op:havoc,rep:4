@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Ho–t: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gz…p, deflate
+SOAPAction: keep-alive
+UpgrDEBUG: Last-Modified check failed alive
+UpgrDEBUG: Lastamp was too long:ade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

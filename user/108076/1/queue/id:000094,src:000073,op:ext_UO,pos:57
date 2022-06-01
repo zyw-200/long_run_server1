@@ -1,0 +1,6 @@
+GET / HT.1
+Host: 192.168.0.1
+A8
+SOAPAction:u :service:/www/cgi-bin/firewall.sh start 1
+Cot
+

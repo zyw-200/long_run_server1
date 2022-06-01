@@ -1,0 +1,7 @@
+GETmsmtp %s --auth=  --user=%s  --passwd %s --host=%s --from=%s --port=%s & / HT.1
+1
+A8
+Content-Type:multipart/form-data;boundary=te
+s: 1
+Cot
+

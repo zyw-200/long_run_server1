@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 
+Host: 192.168.0.1
+d192.168.0.1
+deflat: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8í	Accept-Language: en-US,SetWANReleaseept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Rdquests: 1
+Cookè: uidTTFYCmNixEa
+

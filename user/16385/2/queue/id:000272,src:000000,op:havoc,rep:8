@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+HoWt: 192.168.0.1
+Accept: text/html,applycation/xhtml+xml,application/xml;q00.9,image/webp,*/*live
+UpAccept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cpplyonnection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uidcept: te=CFYCmNtest=testixEa
+
+“est=test
+

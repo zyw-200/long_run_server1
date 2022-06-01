@@ -1,0 +1,9 @@
+GET / HT.1
+Host: 192.168.0.1
+A8
+SOAPAction:<m:RebootResponse    xmlns:m="urn:NETGEAR-ROUTER:service:DeviceConfig:1"></m:RebootResponse>ua.5
+te
+ve
+s: 1
+Cot
+

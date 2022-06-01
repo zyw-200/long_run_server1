@@ -1,0 +1,6 @@
+GET / HT.1
+SOAPAction::service:0 HT.1
+SOAPAction::service:0
+SOAPAction::service:0var %s%d="%s";
+Cot
+

@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzy÷zywzywzywzywzywzywHost: 192.168.0.50
+C=zywzywzyo
+
+
+
+_LeCONTENT 1 s ap:"%s" 1 s channel:"%s" 1 s interfere:"%s" 
+

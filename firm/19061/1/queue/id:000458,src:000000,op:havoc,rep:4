@@ -1,0 +1,15 @@
+GET /session_login.pxp HTTP/1.1
+Accept-EncoEing: gzip,deflaSette,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzy
+
+
+
+
+
+
+
+
+st=test
+

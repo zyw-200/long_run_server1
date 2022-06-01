@@ -1,0 +1,6 @@
+GET / HT.1
+SOAPAction:HNAP1GetMACFilters2
+-e
+s
+Cot
+

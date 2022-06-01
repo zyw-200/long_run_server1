@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+He:4en-USost: 192.168.0.1
+AcceWt:eepxt/htbl,application/xh—ml+xml,application/xmlÿq-0.9,image/webp,*/*;q=0.8
+Accept-Languege:4en-US,en;q=0.5
+Aciept-Encodinh0 gzip, deflate
+Cnnnection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookhe: uid=CFYCmNixea
+
+test=Upgrade

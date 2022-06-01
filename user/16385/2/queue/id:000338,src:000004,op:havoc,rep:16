@@ -1,0 +1,11 @@
+GET / HTTP/1.0
+Hust: 192.168.0.1
+Accept: text/html,ap†lŒcation/xhtml+xml,app
+Hust: 192.168.09,image/webp,*/*;q=0.8
+Accept-Language: en-ÿÿÿÿn;q=0.5n-US,en;q=0.5
+Accept-4ncodinnction:HTTP["url"]
+Upgrade-Insecure-Requests: 1
+Cookie: ™gd=CFYCm<ixEa
+
+test=test
+

@@ -1,0 +1,7 @@
+GET<m:GetTimeZoneInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:DeviceConfig:1">    <NewTimeZone>%s</NewTimeZone>.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNt
+

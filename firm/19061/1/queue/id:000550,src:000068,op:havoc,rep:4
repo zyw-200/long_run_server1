@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+AcceptEncoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.16HTTP/1.1 %s8.0.50
+Conent_Length: 20
+Cookie: uiost: 192.16HTTP/1.1 %s8d=zywzyw@y
+:test=test
+

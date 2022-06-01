@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+Accept-?ncoding: gzip,deflate,sdchzywzywzywzywzywzywzywzyw”yw
+Host: 192.168.0.5
+Cookie: uid192.168.0.5
+
+test=test
+

@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host								8.0.1
+Accept:ÿÿÿÿt/html,application/xhtml+xml,application/xÿl;q=0.9,image/webpso€oo,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, d¦flate
+Connect\"ion: keep-alive
+If-None-Match:pgrade-Insecure-Req								8.0.1
+Accept:ÿÿÿÿt/htEa
+
+test=test
+

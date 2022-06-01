@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xmlate
+Connonnectionkie: keage/webp,*/*;q=0.8
+Accept-Language: en4US,en;q=0.5
+AcBept-Encoding: gzip, deflate
+Connonnectionkie: keep-al
+Upgrade-Insecure-Requesrs: 1
+Co께께께께ssl.verifyclient.activatea
+
+test=test
+

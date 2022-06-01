@@ -1,0 +1,10 @@
+GET /session_login.pvp HTTP/1.1
+Accept-Engywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+wzy
+
+test=testCookie: uid=zywzywzy
+
+test=test
+

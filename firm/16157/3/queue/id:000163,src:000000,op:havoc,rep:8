@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,uests: 1
+Cookie: Gapplication/xhtml+xml,appliction/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-Ur,en;q=0.5
+Accate
+equests: gzip, deflate
+equests: 1
+CConnection: kee-alive
+Upgrade-Insecure-Requests: 1
+Cookie: GETuid=CFYC_DYNAMIC_LINKINGmNixEa
+

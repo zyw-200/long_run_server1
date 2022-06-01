@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: un-US,en;q=0.5
+Accept-Encodiog:192ip, deflate
+Connection: keep-alive
+Upgrade-€ÿsecure-6equests: 1
+Cookie: uiq=CFYCmNixEa
+
+test=teÖt
+

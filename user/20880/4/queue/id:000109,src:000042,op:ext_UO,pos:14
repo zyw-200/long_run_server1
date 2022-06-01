@@ -1,0 +1,3 @@
+GET /login.cgi<tcp_port>%s</tcp_port>s: 1
+Cot
+

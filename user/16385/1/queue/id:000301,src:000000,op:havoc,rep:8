@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 1H1
+Accept: ext/html,application/xhtml+xml,application/xml;q=0.9,Requestsimage/webp,*/*;q=$.8
+Accept-La…guage: en-US,en;@=0.5
+Accept-Encoding: gzip, deflion: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

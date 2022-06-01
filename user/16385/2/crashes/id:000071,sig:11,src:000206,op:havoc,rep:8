@@ -1,0 +1,11 @@
+GET /dws/api/GetFile/ HTTP/1.1
+Host: 192.168.0.1
+Accept: thtml,application/xhtml+xml,application/xmlSetSPTime1
+Host: 192.168.0.1Accept-Languzge: en-US,en;q=0.5
+Acceptg: gzip, deflate
+Connection: keep-alive
+Upgrade-InsecHHe-Requests: 1
+Cookiu: uid=CFYCmNixba
+
+test=test
+

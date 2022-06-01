@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1    
+Accept: text/html,applicat  
+Accept: text/html,applicatio0.9,imafe/webp,*/*;i=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip,@de192.168.0.1    
+Accept: teflate
+Connection:0keep-aliveests: 1
+Cookie: uid=CeYCmNixEa
+
+test=test
+

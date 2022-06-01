@@ -1,0 +1,11 @@
+GET / HT.1
+SOAPAction:<R:service:Time:1
+SOAPAction:ER:service:Time:1#> 
+SOAPAction:<OU
+s
+Content-Length:1
+SOAPAction:<m:GetInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:DeviceInfo:1">    <ModelName>%s</ModelName><O:service:Time:1">  PTPServer1>H
+A8
+age
+
+v.1

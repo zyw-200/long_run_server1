@@ -1,0 +1,10 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding:.50
+Conent_Length: 20
+Cookie: wzywzywzywzyw
+Host: 192.168.0.5 1 s ap"%s" 1 s ssid1:"%s" 1 s ssid2:"%s" 1 s "wepkey1"0
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

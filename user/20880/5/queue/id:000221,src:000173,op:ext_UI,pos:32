@@ -1,0 +1,9 @@
+GET / HT.1
+Authorization:Basic ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/1
+SOAPAction:HNAP1
+0.5
+efl
+-al
+s
+Cot
+

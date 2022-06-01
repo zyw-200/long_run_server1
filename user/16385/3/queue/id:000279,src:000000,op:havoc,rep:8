@@ -1,0 +1,14 @@
+GET / HTTP/1.1
+HostRequests: 1G2.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-LMnguage: en-US,en;q=0
+Cookie: uid=CFYCmNi.5
+dccept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNiÅEa
+
+test=test
+s: 1
+Cookie: uiˇˇˇYCmNixEa
+

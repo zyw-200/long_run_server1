@@ -1,0 +1,7 @@
+GET / HT.1
+Host: 192.168.0.1
+A8
+Accept-Language: .5
+SOAPAction::service::<m:GetBlockSiteInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:DeviceConfig:1">    <NewBlockSiteEnable>%s</NewBlockSiteEnable>
+Cot
+

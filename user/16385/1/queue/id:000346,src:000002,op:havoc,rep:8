@@ -1,0 +1,12 @@
+GET ? HTTP/1.1
+Host:  1
+Cookie: uid=CFYCmNixEa192.168.0.1
+Accept: text/hNixEa192.168.0.1
+Accept: text/cation/xml;q=0.9,iuid=CFYCmNixEa192.168.0.1
+-Lancuage: en-Unguage: en-US,en;q-Encoding: gzip, deflate
+Connection: keep-alivE
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

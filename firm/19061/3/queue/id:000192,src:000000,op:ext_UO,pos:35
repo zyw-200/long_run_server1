@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Ac[SYSACT]Fail to get the file, please check the IP address and check the file name.onent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,apive
+Content-Type:pgrmagE/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-EnÅoding: gzip, deflate
+Connection: keep-alive
+Content-Type:pgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEp
+
+test=test
+

@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+AcceOtost: 168.0-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 168.0.50
+Conent_Len…th: 20
+Cookie: uid=zywzzzzyzy
+
+test=test
+

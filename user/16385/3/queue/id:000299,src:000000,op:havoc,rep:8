@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Hos‰: 1J2.168.0.1
+Accept:Ùtext/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+AcVept-Language: en-Ueepn;q=0.5
+GetDeviceSencoding: gzip, deflate
+Connection: keep-aquests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

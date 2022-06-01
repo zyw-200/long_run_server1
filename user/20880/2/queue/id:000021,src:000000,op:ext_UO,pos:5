@@ -1,0 +1,5 @@
+GET /start_syslogd: syslog_server errorate
+-alive
+s: 1
+Cot
+

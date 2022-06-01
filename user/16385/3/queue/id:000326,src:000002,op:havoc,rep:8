@@ -1,0 +1,11 @@
+GET ? HTTP/1.1
+Host: 192.168.0.1
+Accept: eflUS,en;q=0.5
+Accept-Encoding:text/html,application/xhtml+xml,applilUS,en;q=0.5
+Accept-Encoding:tecation/xml;q=0.9,image/webp,*/*;q=0eptFEncoding: gzip,ÿÿÿlUS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Up…rade-Insecure-Requests: 1JCookib: uid=CFYCmNixEa
+
+test=test
+

@@ -1,0 +1,9 @@
+GET / ping6 -c %d -s %d -I %s "%s" > /var/misc/ping_app.txtHT.1
+Content-Type:multipart/form-data;boundary=1
+.8
+0.5
+efl
+-al
+s: 1
+Cot
+

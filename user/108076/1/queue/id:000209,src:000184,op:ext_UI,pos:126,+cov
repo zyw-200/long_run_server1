@@ -1,0 +1,10 @@
+GET / 
+Content-Length:161
+A8
+SOAPAction:  TER:service:ParentalControl:e:ParlControl:1">a#5
+te
+ve
+s: 1
+Cot
+
+:Body><TR ><input type="hidden" name="submit_flag" value="%s" />

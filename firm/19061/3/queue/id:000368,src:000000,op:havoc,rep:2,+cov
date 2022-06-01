@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzip,de.0.50
+Lonent_Length: 20zywzywzywzyw
+Host: 192.168.0.50
+Lonent_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

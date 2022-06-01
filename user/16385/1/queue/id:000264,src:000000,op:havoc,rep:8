@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Ht: 192.168.0.1
+Accept: text/html,application/xhtml+xml,applicatiodeflaten/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Lapipe faeflaten/xml;q=0.9,imiled: ,en;s: 1
+Cq=0.5
+Accept-Encding: gzip, deflate
+Connection: keep-alive
+Upgrcde-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test.test
+

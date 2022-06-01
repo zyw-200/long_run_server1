@@ -1,0 +1,7 @@
+GET / HTTP/1.1
+SOAPAction:Host: 192.168<m:GetInfoResponse xmlns:m="urn:NETGEAR-ROUTER:service:Time:1">    <NewNTPServer1>%s</NewNTPServer1>guage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNt
+

@@ -1,0 +1,9 @@
+GET / HT.1
+1
+SOAPAction:GetPortMappingsHNAP1
+0.5
+efl
+-al
+s: 1
+Cot
+

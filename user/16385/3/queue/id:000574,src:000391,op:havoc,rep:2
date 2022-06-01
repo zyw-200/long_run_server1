@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+URI-me   : .1
+Accept   : .1
+Accept  thte: en-US,en;q=0.5
+p, deflate
+Connve
+Upgr-Requests: 1
+Cookie: uid=CFYCmNizEa
+
+=tes

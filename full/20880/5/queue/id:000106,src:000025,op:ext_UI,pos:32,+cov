@@ -1,0 +1,5 @@
+GET / HT.1
+Content-Length: %ld
+If-Modified-Since:s: 1
+Cot
+

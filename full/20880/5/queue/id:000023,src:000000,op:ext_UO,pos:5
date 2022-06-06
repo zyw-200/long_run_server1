@@ -1,0 +1,3 @@
+GET /<% CmoGetStatus("version"); %>1
+Cot
+
